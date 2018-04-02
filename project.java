@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.InputMismatchException;
 import java.io.*;
 
-class project2
+class project
 {
  static void cities()
  {
